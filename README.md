@@ -148,5 +148,5 @@
   ------
 
   <h4 align="center">
-    <a href="https://www.github.com/toddpla">github.com/toddpla</a> | toddpla@gmail.com | +447805949437 | London, UK <br> <a href="https://www.linkedin.com/in/todd-langford-archer-778614108/">![](assets/logos/linkedin.png) </a>
+    <a href="https://www.github.com/toddpla">github.com/toddpla</a> | toddpla@gmail.com | +447805949437 | London, UK <br> <a href="https://www.linkedin.com/in/todd-langford-archer-778614108/"> <img src="assets/logos/linkedin.png"> </a>
   </h4>
