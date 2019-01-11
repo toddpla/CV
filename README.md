@@ -50,6 +50,19 @@
 | **Agile Collaboration** | A military background providing a strong team player who enjoys working collaboratively whilst being comfortable working individually off his own initiative. Often takes a leading role during collaborative projects using **Git** and **Github Projects** as tool of choice, however experienced with **Jira** and other PM tools. Appreciates stringent **code review** and a watertight **deployment process**. <br><div align="right">![](assets/logos/jira.png) ![](assets/logos/git.png) ![](assets/logos/github.png)</div>|
 | **Java**<br> ![](assets/logos/java.png) | Primary understanding of Java and currently increasing knowledge base with a Udemy course in Java.  </div>|
 
+<a name="education"></a>
+<h1 align="center">
+  Education
+</h1>
+
+|Organisation|Achievments|
+|:---:|---|
+|[Makers Academy](https://makers.tech/) <br>2018|<div align="center">**Pass**</div>16 week immersive software engineering course in London<br>**Languages**: Javascript, Ruby <br> **Practices**: TDD, Pair programming, Agile, Working collaboratively, XP|
+| [Codeacademy](https://www.codecademy.com)<br>2017-18 | <div align="center">**125 Badges** - **7 Courses**</div> **Courses:** SQL, Command Line, Python, Ruby, Javascript, React, Java |
+| [Udemy](https://www.udemy.com/)<br>2017-2018 | **Courses**<ul><li>[Python & Django](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) - 198 Lectures - 32 hours (Jose Portilla) </li> <li>[React with Redux](https://www.udemy.com/react-2nd-edition/) - 188 Lectures - 36 hours (Andrew Mead ) </li><li>[Node.js](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -  135 Lectures - 27 hours (Andrew Mead)</li><li>[Machine Learning](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/) - 91 Lectures - 12 Hours (Frank Kane) <li> [Javacsript](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview) - 164 Lectures - 64 Hours (Jonas Schmedtmann)</li><li>[Java](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/overview) - 361 Lectures - 77 Hours (Tim Buchalka)|
+| [Royal Military Academy Sandhurst](https://www.army.mod.uk/who-we-are/our-schools-and-colleges/rma-sandhurst/) <br> 2015 | <div align="center">**Highest Tier**</div>Recruited as an **Officer Cadet** by the British Army to commission into the Queen’s Dragoon Guards.<br> Trained in management, leadership and command to be tactically and operationally responsible for an infantry platoon of thirty personnel.<br>Conducted in-depth academic study with attention to international relations, war studies and behavioural sciences.<br>Ranked in the highest tier of cadets in the company.<br>After developing a severe allergic reaction to wasp venom whilst on exercise a medical review board was forced to downgrade me to operationally undeployable.|
+| [Shrewbsbury School](https://www.shrewsbury.org.uk/) <br> 2004-09 | <div align="center"> **GCSE**:  A x 6,  B x 3, C x 1 <br>**A Level**: Chemistry B, Biology B, Physics C </div>Company Sergeant Major for Royal Marines Cadets <br> J14 Rowing Octuple National Champions <br> Awarded a place at Manchester University to study Biomedical Materials Science but instead chose to further ambitions of becoming an Army Officer.|
+
 <a name="employment"></a>
 <h1 align="center">
   Employment
@@ -103,20 +116,6 @@
 
 - Youngest **Sales Negotiator** employed selling properties up to £2m in prime Central London.
 - Tasked with increasing market share of low-mid market sales in the Chelsea and South Kensington area which was achieved by a factor of two.
-
-<a name="education"></a>
-<h1 align="center">
-  Education
-</h1>
-
-|Organisation|Achievments|
-|:---:|---|
-|[Makers Academy](https://makers.tech/) <br>2018|<div align="center">**Pass**</div>16 week immersive software engineering course in London<br>**Languages**: Javascript, Ruby <br> **Practices**: TDD, Pair programming, Agile, Working collaboratively, XP|
-| [Codeacademy](https://www.codecademy.com)<br>2017-18 | <div align="center">**125 Badges** - **7 Courses**</div> **Courses:** SQL, Command Line, Python, Ruby, Javascript, React, Java |
-| [Udemy](https://www.udemy.com/)<br>2017-2018 | **Courses**<ul><li>[Python & Django](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) - 198 Lectures - 32 hours (Jose Portilla) </li> <li>[React with Redux](https://www.udemy.com/react-2nd-edition/) - 188 Lectures - 36 hours (Andrew Mead ) </li><li>[Node.js](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -  135 Lectures - 27 hours (Andrew Mead)</li><li>[Machine Learning](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/) - 91 Lectures - 12 Hours (Frank Kane) <li> [Javacsript](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview) - 164 Lectures - 64 Hours (Jonas Schmedtmann)</li><li>[Java](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/overview) - 361 Lectures - 77 Hours (Tim Buchalka)|
-| [Royal Military Academy Sandhurst](https://www.army.mod.uk/who-we-are/our-schools-and-colleges/rma-sandhurst/) <br> 2015 | <div align="center">**Highest Tier**</div>Recruited as an **Officer Cadet** by the British Army to commission into the Queen’s Dragoon Guards.<br> Trained in management, leadership and command to be tactically and operationally responsible for an infantry platoon of thirty personnel.<br>Conducted in-depth academic study with attention to international relations, war studies and behavioural sciences.<br>Ranked in the highest tier of cadets in the company.<br>After developing a severe allergic reaction to wasp venom whilst on exercise a medical review board was forced to downgrade me to operationally undeployable.|
-| [Shrewbsbury School](https://www.shrewsbury.org.uk/) <br> 2004-09 | <div align="center"> **GCSE**:  A x 6,  B x 3, C x 1 <br>**A Level**: Chemistry B, Biology B, Physics C </div>Company Sergeant Major for Royal Marines Cadets <br> J14 Rowing Octuple National Champions <br> Awarded a place at Manchester University to study Biomedical Materials Science but instead chose to further ambitions of becoming an Army Officer.|
-
 
 <a name="interests"></a>
 <h1 align="center">
