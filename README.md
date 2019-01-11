@@ -14,7 +14,7 @@
   Full stack Makers Academy graduate with military background and experience delivering technology in highly regulated commercial environments. Passionate programmer who uses TDD and Agile methodologies with careful prioritisation. Instinctive problem solver with a natural flare for engineering solutions using a wide range of tools and quickly becoming fluent in new technologies.
 </h6>
 
-<h5 align="center">Currently interviewing for full stack software engineer roles in the finance industry</h5>
+<h5 align="center">Currently interviewing for full stack software engineer roles in the finance and cyber security industries</h5>
 
 --------------------
 
