@@ -1,8 +1,8 @@
 <h4 align="center">
   <a href="#projects">Projects</a> |
   <a href="#skills">Skills</a> |
-  <a href="#background">Employment</a> |
   <a href="#education">Education</a> |
+  <a href="#background">Employment</a> |
   <a href="#interests">Interests</a>
 </h4>
 
