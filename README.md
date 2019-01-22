@@ -83,14 +83,6 @@
   - Accountancy and HR systems review and upgrade to become GDPR compliant.
 
 <h3>
-  2017 <a href="https://www.brewin.co.uk">Brewin Dolphin</a>
-</h3>
-
-- Employed as **Assistant Investment Manager**.
-- **Built tools for portfolio management and new business management**.
-- Client facing responsible for the production of portfolio proposals, reviews and valuations.
-
-<h3>
   2016-17 <a href="https://www.wellesley.co.uk/">Wellesley Group</a>
 </h3>
 
